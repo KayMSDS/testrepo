@@ -1,1 +1,24 @@
-This is where the data science profile will go
+
+
+Doing Data Science - Unit 1
+
+Data Science Profile
+
+
+	Computer Programming			3
+
+	Math					4
+	
+	Statistics				2
+
+	Machine Learning			3
+
+	Domain Expertise 			3
+
+	Communication, Presentation Skills	4
+
+	Data Visualization			1
+
+
+
+	The skill I expect to improve the most in is statistics. 
